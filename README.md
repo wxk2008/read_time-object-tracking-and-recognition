@@ -8,6 +8,7 @@ Experimenting with [**sort**](https://github.com/abewley/sort) different classic
 ## Results: 
 - Dlib correlation tracker: https://youtu.be/tMuX5TP6uqA
 - Kalman tracker: https://youtu.be/SKXk6uB8348
+- the real results of both method is very close, expecially processing the highly occluded scenes
 -----------------------------------------------------
 ### Note:
 - The *detector/ground truth* was used only for *~40%* of the time.
